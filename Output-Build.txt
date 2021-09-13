@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Student registration, Configuration: Debug Any CPU ------
+1>C:\Users\saran\OneDrive\Desktop\study materials\project\Form1.cs(35,21,35,25): warning CS0108: 'Form1.Load()' hides inherited member 'Form.Load'. Use the new keyword if hiding was intended.
+1>  Student registration -> C:\Users\saran\source\repos\student register\bin\Debug\WindowsFormsApp1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
