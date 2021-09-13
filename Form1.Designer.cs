@@ -90,7 +90,7 @@ namespace WindowsFormsApp1
             this.groupBox1.Size = new System.Drawing.Size(365, 417);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "student Registration";
+            this.groupBox1.Text = "Employee Registration";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // txtaddress
